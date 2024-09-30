@@ -49,3 +49,6 @@ pip install torch transformers tensorflow optuna scikit-learn matplotlib pandas 
 ## Additional Notes
 - The script automatically checks for GPU availability for faster computation.
 - Trained models (DistilBERT and LSTM) are saved for future inference.
+
+## More Information
+For detailed information about the methodology, dataset, model architectures, and results, please refer to the report.pdf included in this repository.
