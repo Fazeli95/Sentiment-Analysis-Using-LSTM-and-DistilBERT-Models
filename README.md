@@ -29,7 +29,7 @@ pip install torch transformers tensorflow optuna scikit-learn matplotlib pandas 
 ---
 
 ## Setup and Installation
-1. **Clone the Repository**:
+1. **Clone the Repository**: 
    ```bash
    git clone https://github.com/your-username/sentiment-analysis-yelp-reviews.git
    cd sentiment-analysis-yelp-reviews
